@@ -9,5 +9,5 @@ package Dominio;
  * @author nicol
  */
 public class Gasto {
-    
+        
 }
