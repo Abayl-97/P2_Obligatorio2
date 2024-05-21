@@ -20,5 +20,7 @@ public class Rubro {
         this.setNombre(unNombre);
         this.setDescripcion(unaDescripcion);
     }
+    
+    //ayudaaa
    
 }
